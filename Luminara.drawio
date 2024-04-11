@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T13:37:01.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="dCzTw0ya0jgQsq49VHNY" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T14:02:02.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="WzZQ6lrcCDvEAQ2uW_x-" version="24.2.3" type="github">
   <diagram id="XSM4oBVF5_mrXPqM3JRI" name="第 1 页">
     <mxGraphModel dx="1869" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,20 +7,14 @@
         <mxCell id="sidi8s4r-6cRWNvBowN3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;" parent="1" source="sidi8s4r-6cRWNvBowN3-8" target="sidi8s4r-6cRWNvBowN3-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sidi8s4r-6cRWNvBowN3-8" value="&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;Discord&lt;br&gt;User&lt;br&gt;Call&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;b&gt;Command&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="sidi8s4r-6cRWNvBowN3-8" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#6666ff&quot;&gt;Discord&lt;/font&gt;&lt;br&gt;(User Call&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Command)&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="215" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="sidi8s4r-6cRWNvBowN3-24" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="80" width="560" height="420" as="geometry" />
         </mxCell>
         <mxCell id="sidi8s4r-6cRWNvBowN3-20" value="&lt;b&gt;Lavalink&lt;br&gt;Server&lt;/b&gt;&lt;br&gt;(Relay Audio)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="sidi8s4r-6cRWNvBowN3-24" vertex="1">
           <mxGeometry x="274" y="320" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="sidi8s4r-6cRWNvBowN3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=45;exitPerimeter=0;entryX=-0.003;entryY=0.251;entryDx=0;entryDy=0;entryPerimeter=0;" parent="sidi8s4r-6cRWNvBowN3-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="55" as="sourcePoint" />
-            <mxPoint x="349.43000000000006" y="47.64999999999998" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="sidi8s4r-6cRWNvBowN3-38" value="Docker Container" style="swimlane;whiteSpace=wrap;html=1;" parent="sidi8s4r-6cRWNvBowN3-24" vertex="1">
           <mxGeometry x="60" y="100" width="200" height="200" as="geometry" />
